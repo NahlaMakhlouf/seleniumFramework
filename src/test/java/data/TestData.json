@@ -1,0 +1,15 @@
+[
+	{
+		"firstname": "nahla",
+		"lastname": "elsayed",
+		"email": "nahla@json.com",
+		"password": "123456"
+	},
+
+	{
+		"firstname": "nahla2",
+		"lastname": "elsayed",
+		"email": "nahla2@json.com",
+		"password": "123456"
+	}
+]
