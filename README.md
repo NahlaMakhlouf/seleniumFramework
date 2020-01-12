@@ -2,7 +2,7 @@
 
 Selenium Framework Project Using Java, Maven, TestNG, POM 
 
-#Tech Stach
+# Tech Stach
 - Java
 - Maven  
 - TestNG 
